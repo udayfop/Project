@@ -1,5 +1,6 @@
 terraform {
   required_version = ">= 1.0.0"
+  #chech the required version
 
   required_providers {
     aws = {
